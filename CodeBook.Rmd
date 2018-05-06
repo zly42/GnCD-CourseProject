@@ -1,8 +1,3 @@
----
-title: "Getting and Cleaning Data Project: Code Book"
-output: html_document
----
-
 ## The Dataset
 
 See README for more information on the data.
@@ -20,17 +15,17 @@ See README for more information on the data.
 
 ## The Variables
 
-#Activities:
+# Activities:
 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+1. WALKING 
+2. WALKING_UPSTAIRS 
+3. WALKING_DOWNSTAIRS 
+4. SITTING 
+5. STANDING 
+6. LAYING
 
-
-#Measurements:
+ 
+# Measurements:
 
 > featuresWanted.names
  [1] "tBodyAccMeanX"                "tBodyAccMeanY"               
